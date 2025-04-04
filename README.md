@@ -2,13 +2,20 @@
 
 A conversational AI Voice Assistant that supports both text and voice input/output.
 
-![Demo Screenshot](demo_screenshot.png) *(Replace with actual screenshot)*
+# Demo Screenshot
+
+- **Text Input Mode**:
+![Demo Screenshot](s1.png)
+
+- **Voice Input Mode**:
+![Demo Screenshot](s2.png)
 
 ## Features
 
-- **Dual Input Modes**:
+- **Dual Input Modes(User's Choice)**:
   - Text input via keyboard
   - Voice input via microphone
+- **Text Output**: Text-to-text responses
 - **Voice Output**: Text-to-speech responses
 - **Smart Formatting**: Ensures paragraph-only responses from AI
 - **Session Management**: Maintains conversation context
